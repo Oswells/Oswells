@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Huazhong University of Science and Technology.
 - 🌱 I’m currently learning Object Detection.
 - ⚡ Fun fact: I'm good at writing bugs.
 <!--
