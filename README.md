@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Huazhong University of Science and Technology.
+- 🌱 I’m currently learning Object Detection.
+- ⚡ Fun fact: I'm good at writing bugs.
 <!--
 **Oswells/Oswells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
